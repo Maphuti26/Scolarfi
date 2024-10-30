@@ -1,4 +1,4 @@
-rning App
+Learning App
 
 A free-to-learn app designed to provide scalable, efficient, and user-friendly learning experiences.
 
@@ -22,5 +22,5 @@ A free-to-learn app designed to provide scalable, efficient, and user-friendly l
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/learning-app.git
+   git clone https://github.com/Maphuti26/learning-app.git
    cd learning-app
